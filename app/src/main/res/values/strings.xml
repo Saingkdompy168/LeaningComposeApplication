@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LeaningComposeApplication</string>
+    <string name="hello_first_compose">Hello first compose</string>
+    <string name="lemon_select">Lemon Selected</string>
+    <string name="lemon_squeeze">Lemon Squeeze</string>
+    <string name="lemon_drink">Lemon Drink</string>
+    <string name="lemon_empty_glass">Lemon Empty Glass</string>
+    <string name="lemon_tree_content_description">Lemon tree</string>
+    <string name="tip_amount">Tips Amount %s</string>
+    <string name="how_was_the_service">Tip (%)</string>
+</resources>
